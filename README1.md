@@ -22,8 +22,6 @@ The final recorded model is a **Bidirectional LSTM with frozen 100D GloVe embedd
 - [Project Structure](#project-structure)
 - [Known Issues](#known-issues)
 - [Future Work](#future-work)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -518,31 +516,6 @@ The current project is notebook-based, so the repository does not need unnecessa
 - Add training/validation plots.
 - Create a clean inference script or API.
 - Pin dependency versions for reproducibility.
-
----
-
-## License
-
-No license is specified in the notebook.
-
-Before publishing, add a license such as MIT and create:
-
-```text
-LICENSE
-```
-
-Also review the licensing/usage terms of the IMDB dataset, GloVe vectors, and Universal Sentence Encoder.
-
----
-
-## Contact
-
-**Author:** Samir Masoud Nady
-
-- GitHub: `https://github.com/samirmasoudnady`
-- LinkedIn: `https://www.linkedin.com/in/samirmasoudnady`
-
-Replace these links if the repository uses different profile URLs.
 
 ---
 
